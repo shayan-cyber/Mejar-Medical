@@ -107,19 +107,21 @@ body{
     margin-bottom: 5rem;
 }
 
-#second-row{
-   position: relative;
+/* #second-row{
+   position: relative; */
    /* left: 2rem; */
-}
-
+/* } */
+/* 
 @media  screen and (min-width:769px) {
     #second-row{
         position: relative;
         left: 8rem;
      }
      
+} */
+#dot{
+    font-size: x-small;
 }
-
 
 #footer-div{
     width: 100%;
